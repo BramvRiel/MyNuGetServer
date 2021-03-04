@@ -457,6 +457,7 @@
     <Content Include="Packages\System.Spatial.5.8.4\System.Spatial.5.8.4.nupkg" />
     <Content Include="Packages\WebActivatorEx.2.2.0\.signature.p7s" />
     <Content Include="Packages\WebActivatorEx.2.2.0\WebActivatorEx.2.2.0.nupkg" />
+    <None Include="Properties\PublishProfiles\IISProfile.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
